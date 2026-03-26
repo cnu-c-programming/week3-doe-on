@@ -12,7 +12,7 @@ int main() {
 
     divide(a, b, &q, &r);
 
-    prinf("%d\n%d\n', q, r);
+    printf("%d\n%d\n", q, r);
 
     return 0;
 }
